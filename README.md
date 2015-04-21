@@ -9,3 +9,7 @@ http://onbrewing.com/strangebrew-elsinore-faqbrewery-calibration-pid-setting-spe
 The current version may be accessible at this link:
 
 https://jangevaare.shinyapps.io/pidcalc/
+
+
+More details on running shiny webapps can be found here:
+http://shiny.rstudio.com
