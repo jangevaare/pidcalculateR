@@ -14,3 +14,5 @@ https://jangevaare.shinyapps.io/pidcalc/
 More details on running shiny webapps can be found here:
 
 http://shiny.rstudio.com
+
+![Screenshot](https://github.com/jangevaa/pidcalculateR/blob/master/shiny2.png)
